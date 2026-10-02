@@ -1,0 +1,9 @@
+raw/
+.venv/
+__pycache__/
+*.blend1
+
+# work/ ara çıktıdır; yalnızca build.py'nin girdisi olan iki figür tutulur
+/work/*
+!/work/melek_600k.stl
+!/work/seytan_600k.stl

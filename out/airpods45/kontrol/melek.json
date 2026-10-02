@@ -1,0 +1,40 @@
+{
+ "model": "AirPods 4 / AirPods 5",
+ "figur": "melek",
+ "kulak": "sağ",
+ "stl": "out/airpods45/montaj/melek_sag.stl",
+ "ucgen": 518728,
+ "su_gecirmez": true,
+ "stl_parca": 1,
+ "dejenere_ucgen": 0,
+ "hacim_mm3": 1447.8,
+ "agirlik_g_1_15": 1.67,
+ "boyut_mm": [
+  16.6,
+  22.42,
+  30.0
+ ],
+ "parca_sayisi": 1,
+ "atilan_kirintilar": [],
+ "olcek": 1.0002,
+ "oteleme": [
+  -16.751,
+  10.471,
+  37.63
+ ],
+ "kulaklik_ile_cakisma_mm3": 0.0,
+ "sap_genislik_x": 6.65,
+ "kelepce_agzi": 5.59,
+ "bosluk": 0.12,
+ "eller": [
+  -16.47,
+  1.04,
+  44.54
+ ],
+ "diz": [
+  -18.18,
+  2.09,
+  32.46
+ ],
+ "sure_s": 22.7
+}

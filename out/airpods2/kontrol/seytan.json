@@ -1,0 +1,40 @@
+{
+ "model": "AirPods 2 / AirPods 1",
+ "figur": "seytan",
+ "kulak": "sol",
+ "stl": "out/airpods2/montaj/seytan_sol.stl",
+ "ucgen": 501776,
+ "su_gecirmez": true,
+ "stl_parca": 1,
+ "dejenere_ucgen": 2,
+ "hacim_mm3": 1943.4,
+ "agirlik_g_1_15": 2.23,
+ "boyut_mm": [
+  16.52,
+  23.15,
+  32.0
+ ],
+ "parca_sayisi": 1,
+ "atilan_kirintilar": [],
+ "olcek": 1.0669,
+ "oteleme": [
+  16.786,
+  11.473,
+  48.607
+ ],
+ "kulaklik_ile_cakisma_mm3": 0.0,
+ "sap_genislik_x": 6.11,
+ "kelepce_agzi": 5.13,
+ "bosluk": 0.12,
+ "eller": [
+  16.5,
+  0.54,
+  54.7
+ ],
+ "diz": [
+  18.2,
+  1.95,
+  43.95
+ ],
+ "sure_s": 28.6
+}

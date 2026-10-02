@@ -1,0 +1,40 @@
+{
+ "model": "AirPods 4 / AirPods 5",
+ "figur": "seytan",
+ "kulak": "sol",
+ "stl": "out/airpods45/montaj/seytan_sol.stl",
+ "ucgen": 369748,
+ "su_gecirmez": true,
+ "stl_parca": 1,
+ "dejenere_ucgen": 0,
+ "hacim_mm3": 1611.2,
+ "agirlik_g_1_15": 1.85,
+ "boyut_mm": [
+  15.49,
+  22.18,
+  30.0
+ ],
+ "parca_sayisi": 1,
+ "atilan_kirintilar": [],
+ "olcek": 1.0003,
+ "oteleme": [
+  16.739,
+  11.017,
+  38.834
+ ],
+ "kulaklik_ile_cakisma_mm3": 0.0,
+ "sap_genislik_x": 6.65,
+ "kelepce_agzi": 5.59,
+ "bosluk": 0.12,
+ "eller": [
+  16.47,
+  0.77,
+  44.54
+ ],
+ "diz": [
+  18.07,
+  2.09,
+  34.47
+ ],
+ "sure_s": 24.2
+}

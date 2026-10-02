@@ -1,0 +1,28 @@
+[
+ {
+  "model": "airpodspro2",
+  "figur": "melek",
+  "ornek": 10733,
+  "min_mm": 0.002,
+  "yuzde1_mm": 0.083,
+  "ince_nokta_orani": 0.0673,
+  "ince_noktalar_z": [
+   24.6,
+   26.4,
+   44.77
+  ]
+ },
+ {
+  "model": "airpodspro2",
+  "figur": "seytan",
+  "ornek": 11633,
+  "min_mm": 0.001,
+  "yuzde1_mm": 0.083,
+  "ince_nokta_orani": 0.0684,
+  "ince_noktalar_z": [
+   24.6,
+   26.4,
+   45.13
+  ]
+ }
+]

@@ -1,0 +1,47 @@
+{
+ "model": "AirPods Pro 3",
+ "figur": "melek",
+ "kulak": "sağ",
+ "stl": "out/airpodspro3/montaj/melek_sag.stl",
+ "ucgen": 518140,
+ "su_gecirmez": true,
+ "stl_parca": 1,
+ "dejenere_ucgen": 0,
+ "hacim_mm3": 1451.9,
+ "agirlik_g_1_15": 1.67,
+ "boyut_mm": [
+  16.56,
+  22.43,
+  30.0
+ ],
+ "parca_sayisi": 1,
+ "atilan_kirintilar": [
+  -0.0,
+  -0.0,
+  -0.0,
+  -0.007,
+  -0.0,
+  -0.0
+ ],
+ "olcek": 1.0002,
+ "oteleme": [
+  -20.496,
+  10.341,
+  28.228
+ ],
+ "kulaklik_ile_cakisma_mm3": 0.0,
+ "sap_genislik_x": 6.57,
+ "kelepce_agzi": 5.52,
+ "bosluk": 0.12,
+ "eller": [
+  -20.22,
+  0.91,
+  35.14
+ ],
+ "diz": [
+  -21.92,
+  1.96,
+  23.06
+ ],
+ "sure_s": 26.0
+}

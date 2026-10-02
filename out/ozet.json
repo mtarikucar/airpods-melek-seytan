@@ -1,0 +1,146 @@
+[
+ {
+  "model": "AirPods 4 / AirPods 5",
+  "figur": "melek",
+  "kulak": "sağ",
+  "hacim_mm3": 1447.8,
+  "agirlik_g_1_15": 1.67,
+  "boyut_mm": [
+   16.6,
+   22.42,
+   30.0
+  ],
+  "su_gecirmez": true,
+  "kulaklik_ile_cakisma_mm3": 0.0,
+  "sap_genislik_x": 6.65,
+  "kelepce_agzi": 5.59,
+  "bosluk": 0.12,
+  "baski_stl": "out/airpods45/baski/melek_sag.stl"
+ },
+ {
+  "model": "AirPods 4 / AirPods 5",
+  "figur": "seytan",
+  "kulak": "sol",
+  "hacim_mm3": 1611.2,
+  "agirlik_g_1_15": 1.85,
+  "boyut_mm": [
+   15.49,
+   22.18,
+   30.0
+  ],
+  "su_gecirmez": true,
+  "kulaklik_ile_cakisma_mm3": 0.0,
+  "sap_genislik_x": 6.65,
+  "kelepce_agzi": 5.59,
+  "bosluk": 0.12,
+  "baski_stl": "out/airpods45/baski/seytan_sol.stl"
+ },
+ {
+  "model": "AirPods Pro 3",
+  "figur": "melek",
+  "kulak": "sağ",
+  "hacim_mm3": 1451.9,
+  "agirlik_g_1_15": 1.67,
+  "boyut_mm": [
+   16.56,
+   22.43,
+   30.0
+  ],
+  "su_gecirmez": true,
+  "kulaklik_ile_cakisma_mm3": 0.0,
+  "sap_genislik_x": 6.57,
+  "kelepce_agzi": 5.52,
+  "bosluk": 0.12,
+  "baski_stl": "out/airpodspro3/baski/melek_sag.stl"
+ },
+ {
+  "model": "AirPods Pro 3",
+  "figur": "seytan",
+  "kulak": "sol",
+  "hacim_mm3": 1616.3,
+  "agirlik_g_1_15": 1.86,
+  "boyut_mm": [
+   15.49,
+   22.19,
+   30.0
+  ],
+  "su_gecirmez": true,
+  "kulaklik_ile_cakisma_mm3": 0.0,
+  "sap_genislik_x": 6.57,
+  "kelepce_agzi": 5.52,
+  "bosluk": 0.12,
+  "baski_stl": "out/airpodspro3/baski/seytan_sol.stl"
+ },
+ {
+  "model": "AirPods Pro 2",
+  "figur": "melek",
+  "kulak": "sağ",
+  "hacim_mm3": 1449.5,
+  "agirlik_g_1_15": 1.67,
+  "boyut_mm": [
+   16.41,
+   22.28,
+   30.0
+  ],
+  "su_gecirmez": true,
+  "kulaklik_ile_cakisma_mm3": 0.0,
+  "sap_genislik_x": 6.34,
+  "kelepce_agzi": 5.33,
+  "bosluk": 0.12,
+  "baski_stl": "out/airpodspro2/baski/melek_sag.stl"
+ },
+ {
+  "model": "AirPods Pro 2",
+  "figur": "seytan",
+  "kulak": "sol",
+  "hacim_mm3": 1608.5,
+  "agirlik_g_1_15": 1.85,
+  "boyut_mm": [
+   15.49,
+   22.05,
+   30.0
+  ],
+  "su_gecirmez": true,
+  "kulaklik_ile_cakisma_mm3": 0.0,
+  "sap_genislik_x": 6.34,
+  "kelepce_agzi": 5.33,
+  "bosluk": 0.12,
+  "baski_stl": "out/airpodspro2/baski/seytan_sol.stl"
+ },
+ {
+  "model": "AirPods 2 / AirPods 1",
+  "figur": "melek",
+  "kulak": "sağ",
+  "hacim_mm3": 1745.1,
+  "agirlik_g_1_15": 2.01,
+  "boyut_mm": [
+   17.0,
+   23.41,
+   32.0
+  ],
+  "su_gecirmez": true,
+  "kulaklik_ile_cakisma_mm3": 0.0,
+  "sap_genislik_x": 6.11,
+  "kelepce_agzi": 5.13,
+  "bosluk": 0.12,
+  "baski_stl": "out/airpods2/baski/melek_sag.stl"
+ },
+ {
+  "model": "AirPods 2 / AirPods 1",
+  "figur": "seytan",
+  "kulak": "sol",
+  "hacim_mm3": 1943.4,
+  "agirlik_g_1_15": 2.23,
+  "boyut_mm": [
+   16.52,
+   23.15,
+   32.0
+  ],
+  "su_gecirmez": true,
+  "kulaklik_ile_cakisma_mm3": 0.0,
+  "sap_genislik_x": 6.11,
+  "kelepce_agzi": 5.13,
+  "bosluk": 0.12,
+  "baski_stl": "out/airpods2/baski/seytan_sol.stl"
+ }
+]

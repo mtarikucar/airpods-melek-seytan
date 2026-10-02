@@ -1,0 +1,42 @@
+{
+ "model": "AirPods Pro 3",
+ "figur": "seytan",
+ "kulak": "sol",
+ "stl": "out/airpodspro3/montaj/seytan_sol.stl",
+ "ucgen": 488854,
+ "su_gecirmez": true,
+ "stl_parca": 1,
+ "dejenere_ucgen": 0,
+ "hacim_mm3": 1616.3,
+ "agirlik_g_1_15": 1.86,
+ "boyut_mm": [
+  15.49,
+  22.19,
+  30.0
+ ],
+ "parca_sayisi": 1,
+ "atilan_kirintilar": [
+  -0.0
+ ],
+ "olcek": 1.0003,
+ "oteleme": [
+  20.479,
+  10.888,
+  29.431
+ ],
+ "kulaklik_ile_cakisma_mm3": 0.0,
+ "sap_genislik_x": 6.57,
+ "kelepce_agzi": 5.52,
+ "bosluk": 0.12,
+ "eller": [
+  20.21,
+  0.64,
+  35.14
+ ],
+ "diz": [
+  21.81,
+  1.96,
+  25.06
+ ],
+ "sure_s": 25.8
+}

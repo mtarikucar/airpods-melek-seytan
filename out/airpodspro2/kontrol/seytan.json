@@ -1,0 +1,40 @@
+{
+ "model": "AirPods Pro 2",
+ "figur": "seytan",
+ "kulak": "sol",
+ "stl": "out/airpodspro2/montaj/seytan_sol.stl",
+ "ucgen": 496078,
+ "su_gecirmez": true,
+ "stl_parca": 1,
+ "dejenere_ucgen": 0,
+ "hacim_mm3": 1608.5,
+ "agirlik_g_1_15": 1.85,
+ "boyut_mm": [
+  15.49,
+  22.05,
+  30.0
+ ],
+ "parca_sayisi": 1,
+ "atilan_kirintilar": [],
+ "olcek": 1.0003,
+ "oteleme": [
+  19.968,
+  10.809,
+  38.788
+ ],
+ "kulaklik_ile_cakisma_mm3": 0.0,
+ "sap_genislik_x": 6.34,
+ "kelepce_agzi": 5.33,
+ "bosluk": 0.12,
+ "eller": [
+  19.7,
+  0.56,
+  44.5
+ ],
+ "diz": [
+  21.3,
+  1.88,
+  34.42
+ ],
+ "sure_s": 27.3
+}

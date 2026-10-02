@@ -1,0 +1,40 @@
+{
+ "model": "AirPods 2 / AirPods 1",
+ "figur": "melek",
+ "kulak": "sağ",
+ "stl": "out/airpods2/montaj/melek_sag.stl",
+ "ucgen": 522066,
+ "su_gecirmez": true,
+ "stl_parca": 1,
+ "dejenere_ucgen": 0,
+ "hacim_mm3": 1745.1,
+ "agirlik_g_1_15": 2.01,
+ "boyut_mm": [
+  17.0,
+  23.41,
+  32.0
+ ],
+ "parca_sayisi": 1,
+ "atilan_kirintilar": [],
+ "olcek": 1.0668,
+ "oteleme": [
+  -16.799,
+  10.89,
+  47.323
+ ],
+ "kulaklik_ile_cakisma_mm3": 0.0,
+ "sap_genislik_x": 6.11,
+ "kelepce_agzi": 5.13,
+ "bosluk": 0.12,
+ "eller": [
+  -16.5,
+  0.83,
+  54.7
+ ],
+ "diz": [
+  -18.32,
+  1.95,
+  41.81
+ ],
+ "sure_s": 27.6
+}
