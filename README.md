@@ -17,6 +17,19 @@ Görseller satışa hazır STL'lerden Cycles ile çizilen render'lardır, fotoğ
 
 Renkler `ilan_render.py` başındaki `MELEK_COL` ve `SEYTAN_COL` değerleridir.
 
+## Tanıtım videoları
+
+**[videolar/](videolar/)** klasöründe iki tanıtım videosu, her biri 4K ve 1080p olarak:
+
+| Dosya | Çözünürlük | Süre |
+|---|---|---|
+| `urun_videosu_dikey_4k.mp4` | 2160×3840 (dikey) | 8 sn |
+| `urun_videosu_dikey_1080p.mp4` | 1080×1920 (dikey) | 8 sn |
+| `kisa_film_4k.mp4` | 3840×2160 | 24 sn |
+| `kisa_film_1080p.mp4` | 1920×1080 | 24 sn |
+
+Videolar yapay zekâ ile üretildi (Seedance 2.5, 480p/612p taslak), sonra SeedVR2 7B ile yerelde 1080p ve 4K'ya büyütüldü. `kisa_film_4k.mp4` GitHub'ın 100 MB dosya sınırına sığması için daha düşük bit hızıyla kodlandı.
+
 ## Kaynaklar
 
 - `references/`: kullanıcının verdiği konsept görselleri. Figürler `kaynak_figurler.png` görselinden kırpılan `melek.png` ve `seytan.png` ile üretildi.
